@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.parent {
+  /* Optionally, set a width to contain the child paragraphs */
+  width: 100%;
+}
+
+.parent p {
+  display: inline-block;
+  margin: 0; /* Remove default margins */
+  padding: 5px; /* Add some padding for spacing */
+}

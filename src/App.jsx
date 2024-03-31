@@ -18,7 +18,8 @@ function App() {
       </div>
       <h1>Vite + React created</h1>
       <h2>with CI/CD integrated end to end</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident repellat officiis quaerat sequi, assumenda amet rem in officia rerum facilis alias, qui doloremque aspernatur a doloribus? Natus quidem ex cum!</p>
+      <div class="parent"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A aut temporibus doloribus molestias beatae debitis consequatur nisi veniam, provident cupiditate animi eligendi voluptate atque dolore. Quos itaque vitae asperiores harum aut voluptatum dolorem officiis numquam!</p>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi asperiores beatae exercitationem natus laudantium nisi aliquam et eos nostrum, sunt illum soluta veniam nobis velit, vero mollitia ab placeat obcaecati minus fugit. Qui quas expedita quia voluptate quae odio fugit.</p></div>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}

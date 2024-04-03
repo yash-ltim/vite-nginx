@@ -42,12 +42,13 @@
 }
 
 .parent {
-  /* Optionally, set a width to contain the child paragraphs */
   width: 100%;
+  border: 1px solid #ccc;
+  padding: 10px;
 }
-
-.parent p {
+.child {
   display: inline-block;
-  margin: 0; /* Remove default margins */
-  padding: 5px; /* Add some padding for spacing */
+  width: 48%; /* Adjust width as needed */
+  margin-right: 2%; /* Adjust margin as needed */
+  vertical-align: top; /* Align paragraphs at the top */
 }

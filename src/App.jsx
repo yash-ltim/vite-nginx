@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Hii Sarvesh and Divyanshu !</h1>
+      <h1>Hello from ubuntu server !</h1>
       <h2>with CI/CD integrated end to end</h2>
       <div class="parent"><p class="child">Lorem ipsum dolor sit amet consectetur adipisicing elit. A aut temporibus doloribus molestias beatae debitis consequatur nisi veniam, provident cupiditate animi eligendi voluptate atque dolore. Quos itaque vitae asperiores harum aut voluptatum dolorem officiis numquam!</p>
         <p class="child">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi asperiores beatae exercitationem natus laudantium nisi aliquam et eos nostrum, sunt illum soluta veniam nobis velit, vero mollitia ab placeat obcaecati minus fugit. Qui quas expedita quia voluptate quae odio fugit.</p></div>
